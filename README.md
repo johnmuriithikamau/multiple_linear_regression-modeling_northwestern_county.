@@ -1,4 +1,4 @@
-# multiple_linear_regression-modeling_ King County.
+# King County renovations impact the value of homes.
 # Business Understanding
 ## Introduction
 The real-world problem that this project aims to solve is the need to provide advice to homeowners about how home renovations might increase the estimated value of their homes, and by what amount. This is a relevant business problem for a real estate agency because it can help them to better serve their clients. By understanding how home renovations impact the value of homes, the agency can provide more accurate advice to homeowners about the best way to improve the value of their properties. This can lead to more sales for the agency, as well as happier clients.
@@ -26,3 +26,6 @@ The R-squared value of the model is 1.0, which indicates that the model is a goo
 This code will first load the data and select the two features that we are interested in. Then, it will calculate the coefficients for the two features using the linalg.lstsq() function. Finally, it will print the coefficients and interpret their meaning.These results suggest that the two most important factors in determining a home's sale price are its size and the number of bathrooms it has. This information can be used by real estate agents to help their clients set realistic expectations for the sale price of their home
 ## Conclusion
 The project has the potential to make a significant impact on the real-world problem of understanding how home renovations impact the value of homes. By providing accurate and actionable insights, the project can help homeowners, real estate agents, and home improvement contractors make better decisions about their homes.
+
+# Slide Style link
+https://www.canva.com/design/DAFoIaOXyQg/kI6c469RjfMtEFTpEWgIxw/edit?utm_content=DAFoIaOXyQg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
